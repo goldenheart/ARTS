@@ -24,7 +24,7 @@ github_username:  goldenheart
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
